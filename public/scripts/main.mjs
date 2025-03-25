@@ -1,6 +1,6 @@
 import { populateTable } from "./table.mjs";
 
-const table = document.querySelector("entity-table");
+const table = document.querySelector(".entity-table");
 
 const columns = [
   {
