@@ -11,8 +11,7 @@
       "postalCode": "12209",
       "country": "Germany",
       "email": "maria.anders@example.com",
-      "phone": "030-0074321",
-      "fax": "030-0076545"
+      "phone": "030-0074321"
     },
     {
       "id": "ANATR",
@@ -23,23 +22,21 @@
       "region": null,
       "postalCode": "05021",
       "country": "Mexico",
-      "phone": "(5) 555-4729",
       "email": "ana.trujillo@example.com",
-      "fax": "(5) 555-3745"
+      "phone": "(5) 555-4729"
     },
     {
       "id": "ANTON",
       "companyName": "Antonio Moreno Taquería",
       "contactName": "Antonio Moreno",
       "contactTitle": "Owner",
-      "address": "Mataderos 2312",
+      "address": "Mataderos  2312",
       "city": "México D.F.",
       "region": null,
       "postalCode": "05023",
       "country": "Mexico",
       "email": "antonio.moreno@example.com",
-      "phone": "(5) 555-3932",
-      "fax": null
+      "phone": "(5) 555-3932"
     },
     {
       "id": "AROUT",
@@ -52,22 +49,20 @@
       "postalCode": "WA1 1DP",
       "country": "UK",
       "email": "thomas.hardy@example.com",
-      "phone": "(171) 555-7788",
-      "fax": "(171) 555-6750"
+      "phone": "(171) 555-7788"
     },
     {
       "id": "BERGS",
       "companyName": "Berglunds snabbköp",
       "contactName": "Christina Berglund",
       "contactTitle": "Order Administrator",
-      "address": "Berguvsvägen 8",
+      "address": "Berguvsvägen  8",
       "city": "Luleå",
       "region": null,
       "postalCode": "S-958 22",
       "country": "Sweden",
       "email": "christina.berglund@example.com",
-      "phone": "0921-12 34 65",
-      "fax": "0921-12 34 67"
+      "phone": "0921-12 34 65"
     },
     {
       "id": "BLAUS",
@@ -80,8 +75,7 @@
       "postalCode": "68306",
       "country": "Germany",
       "email": "hanna.moos@example.com",
-      "phone": "0621-08460",
-      "fax": "0621-08924"
+      "phone": "0621-08460"
     },
     {
       "id": "BLONP",
@@ -94,22 +88,20 @@
       "postalCode": "67000",
       "country": "France",
       "email": "frédérique.citeaux@example.com",
-      "phone": "88.60.15.31",
-      "fax": "88.60.15.32"
+      "phone": "88.60.15.31"
     },
     {
       "id": "BOLID",
-      "companyName": "BÓLIDO COMIDAS PREPARADAS",
+      "companyName": "Bólido Comidas preparadas",
       "contactName": "Martín Sommer",
       "contactTitle": "Owner",
       "address": "C/ Araquil, 67",
       "city": "Madrid",
-      "REGION": null,
+      "region": null,
       "postalCode": "28023",
       "country": "Spain",
       "email": "martín.sommer@example.com",
-      "phone": "(91) 555 22 82",
-      "fax": "(91) 555 91 99"
+      "phone": "(91) 555 22 82"
     },
     {
       "id": "BONAP",
@@ -122,8 +114,7 @@
       "postalCode": "13008",
       "country": "France",
       "email": "laurence.lebihan@example.com",
-      "phone": "91.24.45.40",
-      "fax": "91.24.45.41"
+      "phone": "91.24.45.40"
     },
     {
       "id": "BOTTM",
@@ -136,8 +127,7 @@
       "postalCode": "T2F 8M4",
       "country": "Canada",
       "email": "elizabeth.lincoln@example.com",
-      "phone": "(604) 555-4729",
-      "fax": "(604) 555-3745"
+      "phone": "(604) 555-4729"
     },
     {
       "id": "BSBEV",
@@ -150,12 +140,11 @@
       "postalCode": "EC2 5NT",
       "country": "UK",
       "email": "victoria.ashworth@example.com",
-      "phone": "(171) 555-1212",
-      "fax": null
+      "phone": "(171) 555-1212"
     },
     {
       "id": "CACTU",
-      "companyName": "CACTUS COMIDAS PARA LLEVAR",
+      "companyName": "Cactus Comidas para llevar",
       "contactName": "Patricio Simpson",
       "contactTitle": "Sales Agent",
       "address": "Cerrito 333",
@@ -164,8 +153,7 @@
       "postalCode": "1010",
       "country": "Argentina",
       "email": "patricio.simpson@example.com",
-      "phone": "(1) 135-5555",
-      "fax": "(1) 135-4892"
+      "phone": "(1) 135-5555"
     },
     {
       "id": "CENTC",
@@ -178,8 +166,7 @@
       "postalCode": "05022",
       "country": "Mexico",
       "email": "francisco.chang@example.com",
-      "phone": "(5) 555-3392",
-      "fax": "(5) 555-7293"
+      "phone": "(5) 555-3392"
     },
     {
       "id": "CHOPS",
@@ -192,8 +179,7 @@
       "postalCode": "3012",
       "country": "Switzerland",
       "email": "yang.wang@example.com",
-      "phone": "0452-076545",
-      "fax": null
+      "phone": "0452-076545"
     },
     {
       "id": "COMMI",
@@ -206,22 +192,20 @@
       "postalCode": "05432-043",
       "country": "Brazil",
       "email": "pedro.afonso@example.com",
-      "phone": "(11) 555-7647",
-      "fax": null
+      "phone": "(11) 555-7647"
     },
     {
       "id": "CONSH",
-      "companyName": "CONSOLIDATED HOLDINGS",
+      "companyName": "Consolidated Holdings",
       "contactName": "Elizabeth Brown",
       "contactTitle": "Sales Representative",
-      "address": "Berkeley Gardens 12 Brewery",
+      "address": "Berkeley Gardens 12  Brewery",
       "city": "London",
       "region": null,
       "postalCode": "WX1 6LT",
       "country": "UK",
       "email": "elizabeth.brown@example.com",
-      "phone": "(171) 555-2282",
-      "fax": "(171) 555-9199"
+      "phone": "(171) 555-2282"
     },
     {
       "id": "DRACD",
@@ -234,8 +218,7 @@
       "postalCode": "52066",
       "country": "Germany",
       "email": "sven.ottlieb@example.com",
-      "phone": "0241-039123",
-      "fax": "0241-059428"
+      "phone": "0241-039123"
     },
     {
       "id": "DUMON",
@@ -248,8 +231,7 @@
       "postalCode": "44000",
       "country": "France",
       "email": "janine.labrune@example.com",
-      "phone": "40.67.88.88",
-      "fax": "40.67.89.89"
+      "phone": "40.67.88.88"
     },
     {
       "id": "EASTC",
@@ -262,8 +244,7 @@
       "postalCode": "WX3 6FW",
       "country": "UK",
       "email": "ann.devon@example.com",
-      "phone": "(171) 555-0297",
-      "fax": "(171) 555-3373"
+      "phone": "(171) 555-0297"
     },
     {
       "id": "ERNSH",
@@ -276,8 +257,7 @@
       "postalCode": "8010",
       "country": "Austria",
       "email": "roland.mendel@example.com",
-      "phone": "7675-3425",
-      "fax": "7675-3426"
+      "phone": "7675-3425"
     },
     {
       "id": "FAMIA",
@@ -290,8 +270,7 @@
       "postalCode": "05442-030",
       "country": "Brazil",
       "email": "aria.cruz@example.com",
-      "phone": "(11) 555-9857",
-      "fax": null
+      "phone": "(11) 555-9857"
     },
     {
       "id": "FISSA",
@@ -300,12 +279,11 @@
       "contactTitle": "Accounting Manager",
       "address": "C/ Moralzarzal, 86",
       "city": "Madrid",
-      "REGION": null,
+      "region": null,
       "postalCode": "28034",
       "country": "Spain",
       "email": "diego.roel@example.com",
-      "phone": "(91) 555 94 44",
-      "fax": "(91) 555 55 93"
+      "phone": "(91) 555 94 44"
     },
     {
       "id": "FOLIG",
@@ -318,8 +296,7 @@
       "postalCode": "59000",
       "country": "France",
       "email": "martine.rancé@example.com",
-      "phone": "20.16.10.16",
-      "fax": "20.16.10.17"
+      "phone": "20.16.10.16"
     },
     {
       "id": "FOLKO",
@@ -332,8 +309,7 @@
       "postalCode": "S-844 67",
       "country": "Sweden",
       "email": "maria.larsson@example.com",
-      "phone": "0695-34 67 21",
-      "fax": null
+      "phone": "0695-34 67 21"
     },
     {
       "id": "FRANK",
@@ -346,8 +322,7 @@
       "postalCode": "80805",
       "country": "Germany",
       "email": "peter.franken@example.com",
-      "phone": "089-0877310",
-      "fax": "089-0877451"
+      "phone": "089-0877310"
     },
     {
       "id": "FRANR",
@@ -360,8 +335,7 @@
       "postalCode": "44000",
       "country": "France",
       "email": "carine.schmitt@example.com",
-      "phone": "40.32.21.21",
-      "fax": "40.32.21.20"
+      "phone": "40.32.21.21"
     },
     {
       "id": "FRANS",
@@ -374,8 +348,7 @@
       "postalCode": "10100",
       "country": "Italy",
       "email": "paolo.accorti@example.com",
-      "phone": "011-4988260",
-      "fax": "011-4988261"
+      "phone": "011-4988260"
     },
     {
       "id": "FURIB",
@@ -388,8 +361,7 @@
       "postalCode": "1675",
       "country": "Portugal",
       "email": "lino.rodriguez@example.com",
-      "phone": "(1) 354-2534",
-      "fax": "(1) 354-2535"
+      "phone": "(1) 354-2534"
     },
     {
       "id": "GALED",
@@ -402,8 +374,7 @@
       "postalCode": "08022",
       "country": "Spain",
       "email": "eduardo.saavedra@example.com",
-      "phone": "(93) 203 4560",
-      "fax": "(93) 203 4561"
+      "phone": "(93) 203 4560"
     },
     {
       "id": "GODOS",
@@ -416,8 +387,7 @@
       "postalCode": "41101",
       "country": "Spain",
       "email": "josé pedro.freyre@example.com",
-      "phone": "(95) 555 82 82",
-      "fax": null
+      "phone": "(95) 555 82 82"
     },
     {
       "id": "GOURL",
@@ -430,8 +400,7 @@
       "postalCode": "04876-786",
       "country": "Brazil",
       "email": "andré.fonseca@example.com",
-      "phone": "(11) 555-9482",
-      "fax": null
+      "phone": "(11) 555-9482"
     },
     {
       "id": "GREAL",
@@ -444,8 +413,7 @@
       "postalCode": "97403",
       "country": "USA",
       "email": "howard.snyder@example.com",
-      "phone": "(503) 555-7555",
-      "fax": null
+      "phone": "(503) 555-7555"
     },
     {
       "id": "GROSR",
@@ -458,8 +426,7 @@
       "postalCode": "1081",
       "country": "Venezuela",
       "email": "manuel.pereira@example.com",
-      "phone": "(2) 283-2951",
-      "fax": "(2) 283-3397"
+      "phone": "(2) 283-2951"
     },
     {
       "id": "HANAR",
@@ -472,8 +439,7 @@
       "postalCode": "05454-876",
       "country": "Brazil",
       "email": "mario.pontes@example.com",
-      "phone": "(21) 555-0091",
-      "fax": "(21) 555-8765"
+      "phone": "(21) 555-0091"
     },
     {
       "id": "HILAA",
@@ -486,8 +452,7 @@
       "postalCode": "5022",
       "country": "Venezuela",
       "email": "carlos.hernández@example.com",
-      "phone": "(5) 555-1340",
-      "fax": "(5) 555-1948"
+      "phone": "(5) 555-1340"
     },
     {
       "id": "HUNGC",
@@ -500,8 +465,7 @@
       "postalCode": "97827",
       "country": "USA",
       "email": "yoshi.latimer@example.com",
-      "phone": "(503) 555-6874",
-      "fax": "(503) 555-2376"
+      "phone": "(503) 555-6874"
     },
     {
       "id": "HUNGO",
@@ -514,8 +478,7 @@
       "postalCode": null,
       "country": "Ireland",
       "email": "patricia.mckenna@example.com",
-      "phone": "2967 542",
-      "fax": "2967 3333"
+      "phone": "2967 542"
     },
     {
       "id": "ISLAT",
@@ -528,8 +491,7 @@
       "postalCode": "PO31 7PJ",
       "country": "UK",
       "email": "helen.bennett@example.com",
-      "phone": "(198) 555-8888",
-      "fax": null
+      "phone": "(198) 555-8888"
     },
     {
       "id": "KOENE",
@@ -542,8 +504,7 @@
       "postalCode": "14776",
       "country": "Germany",
       "email": "philip.cramer@example.com",
-      "phone": "0555-09876",
-      "fax": null
+      "phone": "0555-09876"
     },
     {
       "id": "LACOR",
@@ -556,8 +517,7 @@
       "postalCode": "78000",
       "country": "France",
       "email": "daniel.tonini@example.com",
-      "phone": "30.59.84.10",
-      "fax": "30.59.85.11"
+      "phone": "30.59.84.10"
     },
     {
       "id": "LAMAI",
@@ -570,8 +530,7 @@
       "postalCode": "31000",
       "country": "France",
       "email": "annette.roulet@example.com",
-      "phone": "61.77.61.10",
-      "fax": "61.77.61.11"
+      "phone": "61.77.61.10"
     },
     {
       "id": "LAUGB",
@@ -584,8 +543,7 @@
       "postalCode": "V3F 2K1",
       "country": "Canada",
       "email": "yoshi.tannamuri@example.com",
-      "phone": "(604) 555-3392",
-      "fax": "(604) 555-7293"
+      "phone": "(604) 555-3392"
     },
     {
       "id": "LAZYK",
@@ -598,8 +556,7 @@
       "postalCode": "99362",
       "country": "USA",
       "email": "john.steel@example.com",
-      "phone": "(509) 555-7969",
-      "fax": "(509) 555-6221"
+      "phone": "(509) 555-7969"
     },
     {
       "id": "LEHMS",
@@ -612,8 +569,7 @@
       "postalCode": "60528",
       "country": "Germany",
       "email": "renate.messner@example.com",
-      "phone": "069-0245984",
-      "fax": "069-0245874"
+      "phone": "069-0245984"
     },
     {
       "id": "LETSS",
@@ -626,8 +582,7 @@
       "postalCode": "94117",
       "country": "USA",
       "email": "jaime.yorres@example.com",
-      "phone": "(415) 555-5938",
-      "fax": null
+      "phone": "(415) 555-5938"
     },
     {
       "id": "LILAS",
@@ -640,8 +595,7 @@
       "postalCode": "3508",
       "country": "Venezuela",
       "email": "carlos.gonzález@example.com",
-      "phone": "(9) 331-6954",
-      "fax": "(9) 331-7256"
+      "phone": "(9) 331-6954"
     },
     {
       "id": "LINOD",
@@ -654,8 +608,7 @@
       "postalCode": "4980",
       "country": "Venezuela",
       "email": "felipe.izquierdo@example.com",
-      "phone": "(8) 34-56-12",
-      "fax": "(8) 34-93-93"
+      "phone": "(8) 34-56-12"
     },
     {
       "id": "LONEP",
@@ -668,8 +621,7 @@
       "postalCode": "97219",
       "country": "USA",
       "email": "fran.wilson@example.com",
-      "phone": "(503) 555-9573",
-      "fax": "(503) 555-9646"
+      "phone": "(503) 555-9573"
     },
     {
       "id": "MAGAA",
@@ -682,8 +634,7 @@
       "postalCode": "24100",
       "country": "Italy",
       "email": "giovanni.rovelli@example.com",
-      "phone": "035-640230",
-      "fax": "035-640231"
+      "phone": "035-640230"
     },
     {
       "id": "MAISD",
@@ -696,8 +647,7 @@
       "postalCode": "B-1180",
       "country": "Belgium",
       "email": "catherine.dewey@example.com",
-      "phone": "(02) 201 24 67",
-      "fax": "(02) 201 24 68"
+      "phone": "(02) 201 24 67"
     },
     {
       "id": "MEREP",
@@ -710,8 +660,7 @@
       "postalCode": "H1J 1C3",
       "country": "Canada",
       "email": "jean.fresnière@example.com",
-      "phone": "(514) 555-8054",
-      "fax": "(514) 555-8055"
+      "phone": "(514) 555-8054"
     },
     {
       "id": "MORGK",
@@ -724,8 +673,7 @@
       "postalCode": "04179",
       "country": "Germany",
       "email": "alexander.feuer@example.com",
-      "phone": "0342-023176",
-      "fax": null
+      "phone": "0342-023176"
     },
     {
       "id": "NORTS",
@@ -733,13 +681,12 @@
       "contactName": "Simon Crowther",
       "contactTitle": "Sales Associate",
       "address": "South House 300 Queensbridge",
-      "CITY": "London",
+      "city": "London",
       "region": null,
       "postalCode": "SW7 1RZ",
       "country": "UK",
       "email": "simon.crowther@example.com",
-      "phone": "(171) 555-7733",
-      "fax": "(171) 555-2530"
+      "phone": "(171) 555-7733"
     },
     {
       "id": "OCEAN",
@@ -752,8 +699,7 @@
       "postalCode": "1010",
       "country": "Argentina",
       "email": "yvonne.moncada@example.com",
-      "phone": "(1) 135-5333",
-      "fax": "(1) 135-5535"
+      "phone": "(1) 135-5333"
     },
     {
       "id": "OLDWO",
@@ -766,8 +712,7 @@
       "postalCode": "99508",
       "country": "USA",
       "email": "rene.phillips@example.com",
-      "phone": "(907) 555-7584",
-      "fax": "(907) 555-2880"
+      "phone": "(907) 555-7584"
     },
     {
       "id": "OTTIK",
@@ -780,8 +725,7 @@
       "postalCode": "50739",
       "country": "Germany",
       "email": "henriette.pfalzheim@example.com",
-      "phone": "0221-0644327",
-      "fax": "0221-0765721"
+      "phone": "0221-0644327"
     },
     {
       "id": "PARIS",
@@ -794,12 +738,11 @@
       "postalCode": "75012",
       "country": "France",
       "email": "marie.bertrand@example.com",
-      "phone": "(1) 42.34.22.66",
-      "fax": "(1) 42.34.22.77"
+      "phone": "(1) 42.34.22.66"
     },
     {
       "id": "PERIC",
-      "companyName": "PERICLES COMIDAS CLÁSICAS",
+      "companyName": "Pericles Comidas clásicas",
       "contactName": "Guillermo Fernández",
       "contactTitle": "Sales Representative",
       "address": "Calle Dr. Jorge Cash 321",
@@ -808,8 +751,7 @@
       "postalCode": "05033",
       "country": "Mexico",
       "email": "guillermo.fernández@example.com",
-      "phone": "(5) 552-3745",
-      "fax": "(5) 545-3745"
+      "phone": "(5) 552-3745"
     },
     {
       "id": "PICCO",
@@ -822,8 +764,7 @@
       "postalCode": "5020",
       "country": "Austria",
       "email": "georg.pipps@example.com",
-      "phone": "6562-9722",
-      "fax": "6562-9723"
+      "phone": "6562-9722"
     },
     {
       "id": "PRINI",
@@ -836,8 +777,7 @@
       "postalCode": "1756",
       "country": "Portugal",
       "email": "isabel de.castro@example.com",
-      "phone": "(1) 356-5634",
-      "fax": null
+      "phone": "(1) 356-5634"
     },
     {
       "id": "QUEDE",
@@ -850,8 +790,7 @@
       "postalCode": "02389-673",
       "country": "Brazil",
       "email": "bernardo.batista@example.com",
-      "phone": "(21) 555-4252",
-      "fax": "(21) 555-4545"
+      "phone": "(21) 555-4252"
     },
     {
       "id": "QUEEN",
@@ -864,8 +803,7 @@
       "postalCode": "05487-020",
       "country": "Brazil",
       "email": "lúcia.carvalho@example.com",
-      "phone": "(11) 555-1189",
-      "fax": null
+      "phone": "(11) 555-1189"
     },
     {
       "id": "QUICK",
@@ -878,8 +816,7 @@
       "postalCode": "01307",
       "country": "Germany",
       "email": "horst.kloss@example.com",
-      "phone": "0372-035188",
-      "fax": null
+      "phone": "0372-035188"
     },
     {
       "id": "RANCH",
@@ -892,8 +829,7 @@
       "postalCode": "1010",
       "country": "Argentina",
       "email": "sergio.gutiérrez@example.com",
-      "phone": "(1) 123-5555",
-      "fax": "(1) 123-5556"
+      "phone": "(1) 123-5555"
     },
     {
       "id": "RATTC",
@@ -906,8 +842,7 @@
       "postalCode": "87110",
       "country": "USA",
       "email": "paula.wilson@example.com",
-      "phone": "(505) 555-5939",
-      "fax": "(505) 555-3620"
+      "phone": "(505) 555-5939"
     },
     {
       "id": "REGGC",
@@ -920,8 +855,7 @@
       "postalCode": "42100",
       "country": "Italy",
       "email": "maurizio.moroni@example.com",
-      "phone": "0522-556721",
-      "fax": "0522-556722"
+      "phone": "0522-556721"
     },
     {
       "id": "RICAR",
@@ -934,8 +868,7 @@
       "postalCode": "02389-890",
       "country": "Brazil",
       "email": "janete.limeira@example.com",
-      "phone": "(21) 555-3412",
-      "fax": null
+      "phone": "(21) 555-3412"
     },
     {
       "id": "RICSU",
@@ -948,8 +881,7 @@
       "postalCode": "1203",
       "country": "Switzerland",
       "email": "michael.holz@example.com",
-      "phone": "0897-034214",
-      "fax": null
+      "phone": "0897-034214"
     },
     {
       "id": "ROMEY",
@@ -958,12 +890,11 @@
       "contactTitle": "Accounting Manager",
       "address": "Gran Vía, 1",
       "city": "Madrid",
-      "REGION": null,
+      "region": null,
       "postalCode": "28001",
       "country": "Spain",
       "email": "alejandra.camino@example.com",
-      "phone": "(91) 745 6200",
-      "fax": "(91) 745 6210"
+      "phone": "(91) 745 6200"
     },
     {
       "id": "SANTG",
@@ -976,8 +907,7 @@
       "postalCode": "4110",
       "country": "Norway",
       "email": "jonas.bergulfsen@example.com",
-      "phone": "07-98 92 35",
-      "fax": "07-98 92 47"
+      "phone": "07-98 92 35"
     },
     {
       "id": "SAVEA",
@@ -990,8 +920,7 @@
       "postalCode": "83720",
       "country": "USA",
       "email": "jose.pavarotti@example.com",
-      "phone": "(208) 555-8097",
-      "fax": null
+      "phone": "(208) 555-8097"
     },
     {
       "id": "SEVES",
@@ -1004,8 +933,7 @@
       "postalCode": "OX15 4NB",
       "country": "UK",
       "email": "hari.kumar@example.com",
-      "phone": "(171) 555-1717",
-      "fax": "(171) 555-5646"
+      "phone": "(171) 555-1717"
     },
     {
       "id": "SIMOB",
@@ -1018,8 +946,7 @@
       "postalCode": "1734",
       "country": "Denmark",
       "email": "jytte.petersen@example.com",
-      "phone": "31 12 34 56",
-      "fax": "31 13 35 57"
+      "phone": "31 12 34 56"
     },
     {
       "id": "SPECD",
@@ -1032,8 +959,7 @@
       "postalCode": "75016",
       "country": "France",
       "email": "dominique.perrier@example.com",
-      "phone": "(1) 47.55.60.10",
-      "fax": "(1) 47.55.60.20"
+      "phone": "(1) 47.55.60.10"
     },
     {
       "id": "SPLIR",
@@ -1046,8 +972,7 @@
       "postalCode": "82520",
       "country": "USA",
       "email": "art.braunschweiger@example.com",
-      "phone": "(307) 555-4680",
-      "fax": "(307) 555-6525"
+      "phone": "(307) 555-4680"
     },
     {
       "id": "SUPRD",
@@ -1060,8 +985,7 @@
       "postalCode": "B-6000",
       "country": "Belgium",
       "email": "pascale.cartrain@example.com",
-      "phone": "(071) 23 67 22 20",
-      "fax": "(071) 23 67 22 21"
+      "phone": "(071) 23 67 22 20"
     },
     {
       "id": "THEBI",
@@ -1074,8 +998,7 @@
       "postalCode": "97201",
       "country": "USA",
       "email": "liz.nixon@example.com",
-      "phone": "(503) 555-3612",
-      "fax": null
+      "phone": "(503) 555-3612"
     },
     {
       "id": "THECR",
@@ -1088,8 +1011,7 @@
       "postalCode": "59801",
       "country": "USA",
       "email": "liu.wong@example.com",
-      "phone": "(406) 555-5834",
-      "fax": "(406) 555-8083"
+      "phone": "(406) 555-5834"
     },
     {
       "id": "TOMSP",
@@ -1102,8 +1024,7 @@
       "postalCode": "44087",
       "country": "Germany",
       "email": "karin.josephs@example.com",
-      "phone": "0251-031259",
-      "fax": "0251-035695"
+      "phone": "0251-031259"
     },
     {
       "id": "TORTU",
@@ -1116,8 +1037,7 @@
       "postalCode": "05033",
       "country": "Mexico",
       "email": "miguel angel.paolino@example.com",
-      "phone": "(5) 555-2933",
-      "fax": null
+      "phone": "(5) 555-2933"
     },
     {
       "id": "TRADH",
@@ -1130,8 +1050,7 @@
       "postalCode": "05634-030",
       "country": "Brazil",
       "email": "anabela.domingues@example.com",
-      "phone": "(11) 555-2167",
-      "fax": "(11) 555-2168"
+      "phone": "(11) 555-2167"
     },
     {
       "id": "TRAIH",
@@ -1144,8 +1063,7 @@
       "postalCode": "98034",
       "country": "USA",
       "email": "helvetius.nagy@example.com",
-      "phone": "(206) 555-8257",
-      "fax": "(206) 555-2174"
+      "phone": "(206) 555-8257"
     },
     {
       "id": "VAFFE",
@@ -1158,8 +1076,7 @@
       "postalCode": "8200",
       "country": "Denmark",
       "email": "palle.ibsen@example.com",
-      "phone": "86 21 32 43",
-      "fax": "86 22 33 44"
+      "phone": "86 21 32 43"
     },
     {
       "id": "VICTE",
@@ -1172,8 +1089,7 @@
       "postalCode": "69004",
       "country": "France",
       "email": "mary.saveley@example.com",
-      "phone": "78.32.54.86",
-      "fax": "78.32.54.87"
+      "phone": "78.32.54.86"
     },
     {
       "id": "VINET",
@@ -1186,8 +1102,7 @@
       "postalCode": "51100",
       "country": "France",
       "email": "paul.henriot@example.com",
-      "phone": "26.47.15.10",
-      "fax": "26.47.15.11"
+      "phone": "26.47.15.10"
     },
     {
       "id": "WANDK",
@@ -1200,8 +1115,7 @@
       "postalCode": "70563",
       "country": "Germany",
       "email": "rita.müller@example.com",
-      "phone": "0711-020361",
-      "fax": "0711-035428"
+      "phone": "0711-020361"
     },
     {
       "id": "WARTH",
@@ -1214,8 +1128,7 @@
       "postalCode": "90110",
       "country": "Finland",
       "email": "pirkko.koskitalo@example.com",
-      "phone": "981-443655",
-      "fax": "981-443655"
+      "phone": "981-443655"
     },
     {
       "id": "WELLI",
@@ -1228,8 +1141,7 @@
       "postalCode": "08737-363",
       "country": "Brazil",
       "email": "paula.parente@example.com",
-      "phone": "(14) 555-8122",
-      "fax": null
+      "phone": "(14) 555-8122"
     },
     {
       "id": "WHITC",
@@ -1242,8 +1154,7 @@
       "postalCode": "98128",
       "country": "USA",
       "email": "karl.jablonski@example.com",
-      "phone": "(206) 555-4112",
-      "fax": "(206) 555-4115"
+      "phone": "(206) 555-4112"
     },
     {
       "id": "WILMK",
@@ -1256,12 +1167,11 @@
       "postalCode": "21240",
       "country": "Finland",
       "email": "matti.karttunen@example.com",
-      "phone": "90-224 8858",
-      "fax": "90-224 8858"
+      "phone": "90-224 8858"
     },
     {
       "id": "WOLZA",
-      "companyName": "Wolski Zajazd",
+      "companyName": "Wolski  Zajazd",
       "contactName": "Zbyszek Piestrzeniewicz",
       "contactTitle": "Owner",
       "address": "ul. Filtrowa 68",
@@ -1270,8 +1180,7 @@
       "postalCode": "01-012",
       "country": "Poland",
       "email": "zbyszek.piestrzeniewicz@example.com",
-      "phone": "(26) 642-7012",
-      "fax": "(26) 642-7012"
+      "phone": "(26) 642-7012"
     }
   ]
 }

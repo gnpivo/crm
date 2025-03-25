@@ -4,12 +4,20 @@ const table = document.querySelector(".entity-table");
 
 const columns = [
   {
+    name: "ID",
+    key: "id",
+  },
+  {
     name: "Company Name",
     key: "companyName",
   },
   {
     name: "Contact Name",
     key: "contactName",
+  },
+  {
+    name: "Contact Title",
+    key: "contactTitle",
   },
   {
     name: "Address",
@@ -40,8 +48,5 @@ const columns = [
 fetch("/data/customers.json")
   .then((response) => response.json())
   .then(({ customers }) => {
-    for (const customer of customers) {
-      customer.email = `${customer.contactName.toLowerCase().replaceAll(" ", ".")}@example.com`;
-    }
     populateTable(table, columns, customers);
   })
