@@ -30,7 +30,7 @@
       "companyName": "Antonio Moreno Taquería",
       "contactName": "Antonio Moreno",
       "contactTitle": "Owner",
-      "address": "Mataderos  2312",
+      "address": "Mataderos 2312",
       "city": "México D.F.",
       "region": null,
       "postalCode": "05023",
@@ -56,7 +56,7 @@
       "companyName": "Berglunds snabbköp",
       "contactName": "Christina Berglund",
       "contactTitle": "Order Administrator",
-      "address": "Berguvsvägen  8",
+      "address": "Berguvsvägen 8",
       "city": "Luleå",
       "region": null,
       "postalCode": "S-958 22",
@@ -87,7 +87,7 @@
       "region": null,
       "postalCode": "67000",
       "country": "France",
-      "email": "frédérique.citeaux@example.com",
+      "email": "frederique.citeaux@example.com",
       "phone": "88.60.15.31"
     },
     {
@@ -100,7 +100,7 @@
       "region": null,
       "postalCode": "28023",
       "country": "Spain",
-      "email": "martín.sommer@example.com",
+      "email": "martin.sommer@example.com",
       "phone": "(91) 555 22 82"
     },
     {
@@ -199,7 +199,7 @@
       "companyName": "Consolidated Holdings",
       "contactName": "Elizabeth Brown",
       "contactTitle": "Sales Representative",
-      "address": "Berkeley Gardens 12  Brewery",
+      "address": "Berkeley Gardens 12 Brewery",
       "city": "London",
       "region": null,
       "postalCode": "WX1 6LT",
@@ -295,7 +295,7 @@
       "region": null,
       "postalCode": "59000",
       "country": "France",
-      "email": "martine.rancé@example.com",
+      "email": "martine.rance@example.com",
       "phone": "20.16.10.16"
     },
     {
@@ -386,7 +386,7 @@
       "region": null,
       "postalCode": "41101",
       "country": "Spain",
-      "email": "josé pedro.freyre@example.com",
+      "email": "jose pedro.freyre@example.com",
       "phone": "(95) 555 82 82"
     },
     {
@@ -399,7 +399,7 @@
       "region": "SP",
       "postalCode": "04876-786",
       "country": "Brazil",
-      "email": "andré.fonseca@example.com",
+      "email": "andre.fonseca@example.com",
       "phone": "(11) 555-9482"
     },
     {
@@ -451,7 +451,7 @@
       "region": "Táchira",
       "postalCode": "5022",
       "country": "Venezuela",
-      "email": "carlos.hernández@example.com",
+      "email": "carlos.hernandez@example.com",
       "phone": "(5) 555-1340"
     },
     {
@@ -594,7 +594,7 @@
       "region": "Lara",
       "postalCode": "3508",
       "country": "Venezuela",
-      "email": "carlos.gonzález@example.com",
+      "email": "carlos.gonzalez@example.com",
       "phone": "(9) 331-6954"
     },
     {
@@ -659,7 +659,7 @@
       "region": "Québec",
       "postalCode": "H1J 1C3",
       "country": "Canada",
-      "email": "jean.fresnière@example.com",
+      "email": "jean.fresniere@example.com",
       "phone": "(514) 555-8054"
     },
     {
@@ -750,7 +750,7 @@
       "region": null,
       "postalCode": "05033",
       "country": "Mexico",
-      "email": "guillermo.fernández@example.com",
+      "email": "guillermo.fernandez@example.com",
       "phone": "(5) 552-3745"
     },
     {
@@ -802,7 +802,7 @@
       "region": "SP",
       "postalCode": "05487-020",
       "country": "Brazil",
-      "email": "lúcia.carvalho@example.com",
+      "email": "lucia.carvalho@example.com",
       "phone": "(11) 555-1189"
     },
     {
@@ -828,7 +828,7 @@
       "region": null,
       "postalCode": "1010",
       "country": "Argentina",
-      "email": "sergio.gutiérrez@example.com",
+      "email": "sergio.gutierrez@example.com",
       "phone": "(1) 123-5555"
     },
     {
@@ -1114,7 +1114,7 @@
       "region": null,
       "postalCode": "70563",
       "country": "Germany",
-      "email": "rita.müller@example.com",
+      "email": "rita.muller@example.com",
       "phone": "0711-020361"
     },
     {
@@ -1171,7 +1171,7 @@
     },
     {
       "id": "WOLZA",
-      "companyName": "Wolski  Zajazd",
+      "companyName": "Wolski Zajazd",
       "contactName": "Zbyszek Piestrzeniewicz",
       "contactTitle": "Owner",
       "address": "ul. Filtrowa 68",
